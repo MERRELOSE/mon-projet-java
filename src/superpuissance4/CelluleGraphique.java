@@ -5,10 +5,6 @@ import java.awt.Graphics;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 
-/**
- *
- * @author Clara THEODOLY et Émile ROYER
- */
 public class CelluleGraphique extends JButton {
 
 	// éléments qu'on va pouvoir afficher sur la fenêtre de jeu
