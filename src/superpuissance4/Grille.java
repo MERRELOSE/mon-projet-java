@@ -4,7 +4,6 @@ package superpuissance4;
 /**
  * Implémente les grilles, qui sont constituées de cellules
  *
- * @author Clara THEODOLY et Émile ROYER
  */
 public class Grille {
 
