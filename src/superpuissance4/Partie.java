@@ -7,7 +7,6 @@ import java.util.Scanner;
 /**
  * Implémente les parties. Elles ont une grille et deux joueurs.
  *
- * @author Clara THEODOLY et Émile ROYER
  */
 public class Partie {
 
