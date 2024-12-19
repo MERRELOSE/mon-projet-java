@@ -10,8 +10,6 @@ import javax.swing.Timer;
 
 /**
  * Crée l'interface graphique
- *
- * @author Clara THEODOLY et Émile ROYER
  */
 public class Jeu extends javax.swing.JFrame {
 
