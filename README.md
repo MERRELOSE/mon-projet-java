@@ -15,4 +15,4 @@ Le premier joueur à aligner 4 de ses jetons (en ligne, colonne ou diagonale) ga
 Au début de la partie, 5 trous noirs sont placés, ainsi que 5 désintégrateurs. 2 des désintégrateurs partagent une case avec un trou noir, et sont donc cachés.
 
 # Exécution
-Ce projet a été conçu grâce à Netbeans, il est donc recommandé d'utiliser ce logiciel pour exécuter ce projet. Cependant, vous devriez pouvoir le compiler à la main si vous le voulez.
+Ce projet a été conçu grâce à Netbeans, il est donc recommandé d'utiliser ce logiciel pour exécuter ce projet.
